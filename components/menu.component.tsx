@@ -19,7 +19,7 @@ export function Menu() {
 				<li>/</li>
 				<li className="underline">
 					<a
-						href="https://github.com/iamandrewluca/digitalartworm"
+						href="https://github.com/trolic/digitalartworm"
 						target="_blank"
 						rel="noopener noreferrer"
 					>
